@@ -73,6 +73,9 @@ export default (() => {
 				<Override slot="link-index">
 					Home
 				</Override>
+				<Override slot="link-contact-us">
+					Contact Us
+				</Override>
 			</Menu>
 			<Link
 				href="mailto:workingdonefornow@gmail.com"
